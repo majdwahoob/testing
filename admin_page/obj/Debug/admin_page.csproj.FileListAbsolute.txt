@@ -1,0 +1,12 @@
+D:\windows forms\admin_page\admin_page\bin\Debug\admin_page.exe.config
+D:\windows forms\admin_page\admin_page\bin\Debug\admin_page.exe
+D:\windows forms\admin_page\admin_page\bin\Debug\admin_page.pdb
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.csproj.AssemblyReference.cache
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.Form1.resources
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.Properties.Resources.resources
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.csproj.GenerateResource.cache
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.csproj.CoreCompileInputs.cache
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.exe
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.pdb
+D:\windows forms\admin_page\admin_page\bin\Debug\Guna.UI2.dll
+D:\windows forms\admin_page\admin_page\obj\Debug\admin_page.csproj.CopyComplete
